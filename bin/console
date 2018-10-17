@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+require 'dsl_examples'
+
+require 'pry'
+Pry.start
